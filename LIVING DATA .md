@@ -1,4 +1,6 @@
-DAIS‑10-- Living Data-- DEFINITION:
+                                            DAIS‑10-- Living Data-- 
+
+DEFINITION:
 In DAIS‑10, data becomes “living” when it continuously reflects the real‑time state, degradation, and operational drift of an asset. Living data is dynamic, time‑aware, self‑updating, and capable of revealing how risk evolves rather than how it looked at a single frozen moment.
 
 """Living data is not stored information — it is an active representation of the asset’s behaviour, health, and failure probability across time."""
