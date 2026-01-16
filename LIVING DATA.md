@@ -8,9 +8,9 @@ In DAIS‑10, data becomes “living” when it continuously reflects the real�
 
 How Data Becomes Alive (DAIS‑10 Perspective)
 Data becomes “alive” when DAIS‑10 applies:
-
+```code
 Time‑banded modelling (SIL(t), λ(t), PFDavg(t))
-
+```
 Continuous ingestion from sensors, CMMS, proof tests, and operational logs
 
 Dynamic recalculation of risk, integrity, and degradation
@@ -21,12 +21,14 @@ Operational context (load, environment, maintenance gaps, human factors)
 
 This transforms static engineering assumptions into real‑time operational truth.
 
+_________________________________________________________________________________________________________________________________________________________________________
 
 
 Case Implementation Potential — Refineries, Processing Plants, Large Assets
 DAIS‑10 can be deployed across:
 
 1. Oil Refineries
+```code
 Safety Instrumented Systems (SIS)
 
 Emergency Shutdown (ESD)
@@ -36,9 +38,11 @@ Burner Management Systems (BMS)
 Pressure Relief Networks
 
 Rotating equipment (compressors, pumps, turbines)
+```
 
-
+_________________________________________________________________________________________________________________________________________________________________________
 2. Petrochemical and Gas Processing Plants
+```code
 Fractionation columns
 
 Reactors and reformers
@@ -46,9 +50,11 @@ Reactors and reformers
 Cryogenic units
 
 Gas dehydration and sweetening systems
+```
 
-
+_________________________________________________________________________________________________________________________________________________________________________
 3. Large Industrial Assets
+```code
 Pipelines
 
 LNG terminals
@@ -56,7 +62,7 @@ LNG terminals
 Power generation units
 
 Mining and mineral processing systems
-
+```
 In all these environments, DAIS‑10 converts raw operational data into living integrity models that track:
 
 degradation
@@ -70,9 +76,7 @@ SIL(t) erosion
 maintenance effectiveness
 
 operational stress
-
-
-
+_________________________________________________________________________________________________________________________________________________________________________
 How DAIS‑10 Saves Money
 
 1. Eliminates Over‑Maintenance
@@ -88,6 +92,7 @@ risk‑based
 This reduces unnecessary shutdowns, proof tests, and part replacements.
 
 
+_________________________________________________________________________________________________________________________________________________________________________
 2. Prevents Unplanned Outages
 Living data detects drift early, preventing:
 
@@ -99,12 +104,12 @@ emergency shutdowns
 
 production losses
 
-
+_________________________________________________________________________________________________________________________________________________________________________
 3. Extends Asset Life
 By tracking real degradation, operators avoid premature replacements and extend asset lifespan.
 
 How DAIS‑10 Saves Lives
-1. Detects Safety Integrity Loss Before It Becomes Dangerous
+A. Detects Safety Integrity Loss Before It Becomes Dangerous
 Static SIL classifications hide time‑based erosion.
 DAIS‑10 exposes:
 
@@ -120,7 +125,7 @@ operational misuse
 
 This prevents catastrophic failures.
 
-2. Reduces Human Error
+B. Reduces Human Error
 Living data provides:
 
 real‑time alerts
