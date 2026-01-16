@@ -1,4 +1,4 @@
-```mermaid
+```code
 mindmap
   root((SIS_SILt_Framework))
 
